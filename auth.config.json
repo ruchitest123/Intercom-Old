@@ -1,0 +1,57 @@
+{
+  "ID": 174,
+  "Name": "IntercomOld",
+  "CreatedOn": "2020-06-28T13:32:28",
+  "CreatedBy": {
+    "ID": 1,
+    "Name": "Nabiya Khan"
+  },
+  "ModifiedOn": "2021-08-30T10:07:34",
+  "ModifiedBy": {
+    "ID": 5,
+    "Name": "Divya Karia"
+  },
+  "DeletedOn": null,
+  "DeletedBy": {
+    "ID": 0,
+    "Name": ""
+  },
+  "Owner": {
+    "ID": 1,
+    "Name": "Nabiya Khan"
+  },
+  "Label_c": "Intercom Old",
+  "LogoUrl_c": "https://integrately-app-logos.s3-us-west-2.amazonaws.com/intercom.png",
+  "IsStandard_c": false,
+  "Description_c": null,
+  "AuthType_c": "OAuth2",
+  "AuthMapping_c": "{\"access_token\":\"{{access_token}}\"}",
+  "AuthTitleMapping_c": "Intercom",
+  "AuthTokenPlacement_c": "Header",
+  "ClientId_c": "8b1c5ecd-cb8b-464c-bde5-4989e7b52623",
+  "ClientSecret_c": "d5402b4b-17a1-4b33-835a-8252b67230c8",
+  "AuthorizationUrl_c": "https://app.intercom.com/oauth",
+  "AccessTokenUrl_c": "https://api.intercom.io/auth/eagle/token",
+  "RequestTokenUrl_c": "https://api.intercom.io/auth/eagle/token",
+  "RefreshTokenUrl_c": null,
+  "Scopes_c": "",
+  "IsPublic_c": false,
+  "Tag": "Logo pending,Test-Deployed",
+  "OAuth_AppDashboardUrl_c": "https://app.intercom.com/a/developer-signup",
+  "API_DocumentationUrl_c": "https://developers.intercom.com/intercom-api-reference/reference",
+  "Is_Module_c": false,
+  "AuthVideoUrl_c": null,
+  "AppWebhookDescription_c": "",
+  "Primary_Color_c": "",
+  "HasCustomOAuth_c": false,
+  "DeAuthorizationUrl_c": null,
+  "Website_link_c": null,
+  "Slug_c": null,
+  "IsPremium_c": false,
+  "IntegrationPageUrl_c": null,
+  "IntegratelyTags_c": null,
+  "Current_Developer_c": {
+    "ID": 0,
+    "Name": ""
+  }
+}
