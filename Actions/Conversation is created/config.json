@@ -1,0 +1,1162 @@
+[
+  {
+    "Name": "Accept",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Accept",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "application/json",
+    "Description_c": "",
+    "Placement_c": "Header",
+    "SampleValue_c": "application/json",
+    "Choices_c": "",
+    "IsRequired_c": true,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:36:34",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:36:34",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41709,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "assignee",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Assignee",
+    "Type_c": "String",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:21:43",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41708,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "teammates.type",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Teammates Type",
+    "Type_c": "String",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:21:43",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41707,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "conversation_rating",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Conversation Rating",
+    "Type_c": "String",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:21:43",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41706,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.count_conversation_parts",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Count Conversation Parts",
+    "Type_c": "Integer",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:25:46",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41705,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.count_assignments",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Count Assignments",
+    "Type_c": "Integer",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:25:46",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41704,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.count_reopens",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Count Reopens",
+    "Type_c": "Integer",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:25:46",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41703,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.last_closed_by_id",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Last Closed By Id",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:25:46",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41702,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.last_close_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Last Close At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41701,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.last_admin_reply_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Last Admin Reply At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41700,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.last_contact_reply_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Last Contact Reply At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41699,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.last_assignment_admin_reply_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Last Assignment Admin Reply At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41698,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.last_assignment_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Last Assignment At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41697,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.first_close_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "First Close At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41696,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.first_admin_reply_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "First Admin Reply At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41695,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.first_assignment_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "First Assignment At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41694,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.first_contact_reply_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "First Contact Reply At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41693,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.median_time_to_reply",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Median Time To Reply",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41692,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.time_to_last_close",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Time To Last Close",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41691,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "statistics.time_to_first_close",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Time To First Close",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1314,
+      "Name": "conversationisadded"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-08T14:21:43",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-08T14:28:56",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 41690,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  }
+]
