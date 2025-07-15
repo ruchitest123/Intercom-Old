@@ -1,0 +1,756 @@
+[
+  {
+    "Name": "Accept",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Accept",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "application/json",
+    "Description_c": "",
+    "Placement_c": "Header",
+    "SampleValue_c": "application/json",
+    "Choices_c": "",
+    "IsRequired_c": true,
+    "Direction_c": "Input",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-07-04T11:22:49",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-07-04T11:22:54",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 40428,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "segments.type",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Segments Type",
+    "Type_c": "String",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-28T13:32:31",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35339,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "tags.type",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Tags Type",
+    "Type_c": "String",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-28T13:32:31",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35338,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "user_count",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "User Count",
+    "Type_c": "Integer",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-28T13:32:31",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35337,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "session_count",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Session Count",
+    "Type_c": "Integer",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-28T13:32:31",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35336,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "monthly_spend",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Monthly Spend",
+    "Type_c": "Integer",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-28T13:32:31",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35335,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "updated_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Updated At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 304,
+      "Name": "modified_on"
+    },
+    "Date_Format_c": "yyyy-mm-dd HH:mm:ss",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-30T20:15:39",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35334,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "created_at",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Created At",
+    "Type_c": "Date",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 303,
+      "Name": "created_on"
+    },
+    "Date_Format_c": "yyyy-mm-dd HH:mm:ss",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-30T20:15:39",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35333,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "name",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Name",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 96,
+      "Name": "Company__name"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-30T20:14:53",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35332,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "app_id",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "App Id",
+    "Type_c": "String",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-28T13:32:31",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35331,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "id",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Id",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 301,
+      "Name": "ID"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-30T20:14:53",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35330,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "company_id",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Company Id",
+    "Type_c": "String",
+    "ParentKey_c": "",
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": "",
+    "DefaultValue_c": "",
+    "Description_c": "",
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": "",
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": "",
+    "DynamicDropdownKey_c": "",
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 356,
+      "Name": "Company__ID"
+    },
+    "Date_Format_c": "",
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": "",
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-30T20:14:53",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35329,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  },
+  {
+    "Name": "type",
+    "Owner": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "Label_c": "Type",
+    "Type_c": "String",
+    "ParentKey_c": null,
+    "ActionId_c": {
+      "ID": 1311,
+      "Name": "companyiscreated"
+    },
+    "Placeholder_c": null,
+    "DefaultValue_c": null,
+    "Description_c": null,
+    "Placement_c": "Body",
+    "SampleValue_c": null,
+    "Choices_c": null,
+    "IsRequired_c": false,
+    "Direction_c": "Output",
+    "DynamicSearchKey_c": null,
+    "DynamicDropdownKey_c": null,
+    "Tag": null,
+    "Entity_Property_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Date_Format_c": null,
+    "Lookup_Entity_c": {
+      "ID": 0,
+      "Name": ""
+    },
+    "Lookup_EntityField_c": null,
+    "SupportsRefreshFields_c": false,
+    "Order_c": null,
+    "IsSampleValueField_c": false,
+    "ShowDescriptionAboveField_c": false,
+    "IsRecordIdentifier_c": false,
+    "SupportsMultipleValues_c": false,
+    "IsJsonParsable_c": false,
+    "CreatedOn": "2020-06-28T13:32:31",
+    "CreatedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ModifiedOn": "2020-06-28T13:32:31",
+    "ModifiedBy": {
+      "ID": 1,
+      "Name": "Nabiya Khan"
+    },
+    "ID": 35328,
+    "DeletedOn": null,
+    "DeletedBy": {
+      "ID": 0,
+      "Name": ""
+    }
+  }
+]
